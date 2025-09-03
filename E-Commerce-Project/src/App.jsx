@@ -1,9 +1,10 @@
 import './App.css'
+import Header from './layout/Header'
 
 function App() {
   return (
     <div>
-      <h1>E-Ticaret Projesi</h1>
+      <Header />
     </div>
   )
 }
